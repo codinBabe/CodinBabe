@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teboola
+- 👋 Hi, I’m @CodinBabe
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects
