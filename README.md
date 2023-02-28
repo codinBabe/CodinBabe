@@ -4,15 +4,17 @@
   
 
 ### <div align="center">I'm Oluwatoyin, a Software Engineer in training @Alx Holberton👨‍💻🚀</div>  
-  
 
-- 🔭 I’m currently working on [soon]  
-  
+- 👩‍🦱 Pronoun: She/her
 
+  
 - 🌱 I’m currently learning C  
   
 
 -  💞️ I’m looking to collaborate on projects
+
+
+- 🌍 I'm based in Lagos, Nigeria
   
 
 - ⚡ Fun fact: I love css  
