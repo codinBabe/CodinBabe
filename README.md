@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Oluwatoyin, a Software Engineer in training @Alx Holberton👨‍💻🚀</div>  
+### <div align="center">I'm Oluwatoyin, a Software Engineer in training @Alx Holberton👩‍💻🚀</div>  
 
 - 👩‍🦱 Pronoun: She/her
 
