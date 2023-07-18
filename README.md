@@ -8,7 +8,7 @@
 - 👩‍🦱 Pronoun: She/her
 
   
-- 🌱 I’m currently learning C and Node Js
+- 🌱 I’m currently learning C, REACT Js and NODE Js
   
 
 -  💞️ I’m looking to collaborate on projects
