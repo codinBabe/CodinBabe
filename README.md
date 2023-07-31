@@ -8,7 +8,7 @@
 - 👩‍🦱 Pronoun: She/her
 
   
-- 🌱 I’m currently learning C, REACT Js and NODE Js
+- 🌱 I’m currently on a MERN journey 🚀
   
 
 -  💞️ I’m looking to collaborate on projects
