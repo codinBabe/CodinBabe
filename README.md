@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Oluwatoyin, a Software Engineer in training @Alx Holberton👩‍💻🚀</div>  
+### <div align="center">I'm Oluwatoyin, a Software Engineer in training👩‍💻🚀</div>  
 
 - 👩‍🦱 Pronoun: She/her
 
@@ -11,7 +11,7 @@
 - 🌱 I’m currently on a MERN journey 🚀
   
 
--  💞️ I’m looking to collaborate on projects
+-  💞️ I’m looking to collaborate on projects,open-source
 
 
 - 🌍 I'm based in Lagos, Nigeria
