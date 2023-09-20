@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/codinBabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oluwatoyin" height="30" width="40" /></a>
 <a href="https://twitter.com/techiebaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinBabe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14077157/oluwatoyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oluwatoyin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29493672/codinbabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oluwatoyin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
