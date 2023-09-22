@@ -31,7 +31,7 @@
 ### Some cool Stats
 
 <!--START_SECTION:waka-->
-![Code Time](https://komarev.com/ghpvc/?username=codinBabe&label=Code%20Time-blue)
+![Code Time](https://komarev.com/ghpvc/?username=codinBabe&label=Code%20Times&color=0e75b6&style=flat)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codinBabe&label=Profile%20views&color=0e75b6&style=flat)
 
