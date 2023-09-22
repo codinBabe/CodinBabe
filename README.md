@@ -31,7 +31,7 @@
 ### Some cool Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2052%20mins-blue)
+![Code Time](https://komarev.com/ghpvc/?username=codinBabe&label=Code%20Time-blue)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codinBabe&label=Profile%20views&color=0e75b6&style=flat)
 
