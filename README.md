@@ -31,11 +31,7 @@
 ### Some cool Stats
 
 <!--START_SECTION:waka-->
-![Code Time](https://komarev.com/ghpvc/?username=codinBabe&label=Code%20Times&color=0e75b6&style=flat)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=codinBabe&label=Profile%20views&color=0e75b6&style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.8%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:waka-->
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinBabe&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="fr4nkln11"/>
