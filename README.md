@@ -34,6 +34,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=codinBabe&label=Profile%20views&color=0e75b6&style=flat)
 <!--END_SECTION:waka-->
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinBabe&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="codinBabe"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codinBabe&show_icons=true&theme=gruvbox&locale=en" alt="codinBabe"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinBabe&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true" alt="codinBabe"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codinBabe&show_icons=true&theme=gruvbox&locale=en&hide_border=true" alt="codinBabe"/>
   <img src="https://streak-stats.demolab.com?user=codinBabe&theme=gruvbox&hide_border=true" alt="codinBabe" />
