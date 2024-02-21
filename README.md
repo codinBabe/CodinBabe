@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/techiebaker" target="blank"><img src="https://img.shields.io/twitter/follow/techiebaker?logo=twitter&style=for-the-badge" alt="codinBabe" /></a> </p>
 
-- 🔭 I’m currently working on [movie-box](https://github.com/codinBabe/movie-box).
+- 🔭 I’m currently working on [pizza-app](https://github.com/codinBabe/flit-pizza-ordering-app).
 
 - 🌱 I’m currently learning **C, Python, Nodejs backend development**
 
