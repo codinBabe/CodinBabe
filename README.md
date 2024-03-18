@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [pizza-app](https://github.com/codinBabe/flit-pizza-ordering-app).
 
-- 🌱 I’m currently learning **C, Python, Nodejs backend development**
+- 🌱 I’m currently learning **C, Python-Flask-SQLAlchemy, Nodejs backend development**
 
 - 💬 Ask me about **Javascript**
 
