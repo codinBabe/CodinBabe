@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-> Nothing yet 😁
+![Medium](https://medium.com/@teboola2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SOCIALS -->
