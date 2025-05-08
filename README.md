@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwatoyin.</h1>
-<h3 align="center">A full stack developer from Nigeria.</h3>
+<h3 align="center">A Software Developer from Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/techiebaker" target="blank"><img src="https://img.shields.io/twitter/follow/techiebaker?logo=twitter&style=for-the-badge" alt="codinBabe" /></a> </p>
 
