@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/techiebaker" target="blank"><img src="https://img.shields.io/twitter/follow/techiebaker?logo=twitter&style=for-the-badge" alt="codinBabe" /></a> </p>
 
-- 🔭 I’m currently working on [cryptify](https://github.com/codinBabe/ceaser_cipher).
+- 🔭 I’m currently working on a mobile movie app.
 
-- 🌱 I’m currently learning **backend development(Python, NodeJs)**
+- 🌱 I’m currently learning **mobile development(React Native)**
 
 - 💬 Ask me about **Javascript**
 
